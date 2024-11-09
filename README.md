@@ -1,3 +1,4 @@
 # LadaPriora
-izuchaem kak polzovatsya geroinom
-## luboy text
+izuchaem github
+## hello world
+
