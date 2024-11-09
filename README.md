@@ -1,4 +1,4 @@
 # LadaPriora
 izuchaem github
 ## hello world
-![my photo](https://upload.wikimedia.org/wikipedia/commons/4/42/Billie_Eilish_Vogue_2023.jpg)
+![my photo](https://ichef.bbci.co.uk/ace/standard/745/cpsprodpb/048c/live/2bb03f70-1753-11ef-b507-edbcd7518f5c.jpg)
