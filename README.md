@@ -17,6 +17,7 @@ $('input').on('change', function() {
 })```
 
 ```
+
 <!DOCTYPE html>
 <html>
 <head>
